@@ -1,0 +1,58 @@
+2005-A|OSN Informatika 2005|Bukit dan Lembah
+2005-B|OSN Informatika 2005|Kata Spiral
+2005-C|OSN Informatika 2005|Faktorial
+2005-D|OSN Informatika 2005|Sandi Ayam
+2006-A|OSN Informatika 2006|Faktorial
+2006-B|OSN Informatika 2006|Tebak Lagu
+2006-C|OSN Informatika 2006|Ulang Tahun
+2006-D|OSN Informatika 2006|Runtuh
+2007-3A|OSN Informatika 2007 - Sesi 3|Tinggi Kandang Susun
+2007-3B|OSN Informatika 2007 - Sesi 3|Menghitung Ruang Tertutup
+2007-3C|OSN Informatika 2007 - Sesi 3|Pemberat
+2007-3D|OSN Informatika 2007 - Sesi 3|Permutasi Ekspresi
+2008-2A|OSN Informatika 2008 - Sesi 2|Kartu 1
+2008-2B|OSN Informatika 2008 - Sesi 2|Kartu 2
+2008-2C|OSN Informatika 2008 - Sesi 2|Kartu 3
+2008-2D|OSN Informatika 2008 - Sesi 2|Angka 1
+2008-2E|OSN Informatika 2008 - Sesi 2|Angka 2
+2008-2F|OSN Informatika 2008 - Sesi 2|Angka 3
+2008-2G|OSN Informatika 2008 - Sesi 2|Angka 4
+2008-2H|OSN Informatika 2008 - Sesi 2|Angka 5
+2008-3A|OSN Informatika 2008 - Sesi 3|Bola dan Gelas
+2008-3B|OSN Informatika 2008 - Sesi 3|Memasang Lantai
+2008-3C|OSN Informatika 2008 - Sesi 3|Menutup Tiang
+2008-3D|OSN Informatika 2008 - Sesi 3|Knight Force
+2009-2A|OSN Informatika 2009 - Sesi 2|Kuadrat Sempurna
+2009-2B|OSN Informatika 2009 - Sesi 2|Berhitung dan Keluar
+2009-2C|OSN Informatika 2009 - Sesi 2|Pola Segitiga
+2009-2D|OSN Informatika 2009 - Sesi 2|Zig Zag
+2009-2E|OSN Informatika 2009 - Sesi 2|Stack dan Queue
+2009-2F|OSN Informatika 2009 - Sesi 2|Operasi Matriks
+2009-2G|OSN Informatika 2009 - Sesi 2|Pola String
+2009-2H|OSN Informatika 2009 - Sesi 2|Penukaran Emas
+2009-3A|OSN Informatika 2009 - Sesi 3|Lagu
+2009-3B|OSN Informatika 2009 - Sesi 3|Paduan Suara
+2009-3C|OSN Informatika 2009 - Sesi 3|Tarian
+2009-3D|OSN Informatika 2009 - Sesi 3|Sepatu
+2010-2A|OSN Informatika 2010 - Sesi 2|Melukis
+2010-2B|OSN Informatika 2010 - Sesi 2|Pecahan Uang
+2010-2C|OSN Informatika 2010 - Sesi 2|Berat Bebek
+2010-2D|OSN Informatika 2010 - Sesi 2|Keluarga Bebek
+2010-2E|OSN Informatika 2010 - Sesi 2|Pasar Rakyat
+2010-2F|OSN Informatika 2010 - Sesi 2|Penjumlahan
+2010-2G|OSN Informatika 2010 - Sesi 2|Susu Cap Dengklek
+2010-2H|OSN Informatika 2010 - Sesi 2|Wildcard
+2010-3A|OSN Informatika 2010 - Sesi 3|Shuffle
+2010-3B|OSN Informatika 2010 - Sesi 3|Magic
+2010-3C|OSN Informatika 2010 - Sesi 3|Missile
+2010-3D|OSN Informatika 2010 - Sesi 3|Waterfall
+2011-2A|OSN Informatika 2011 - Sesi 2|Menggambar Pola
+2011-2B|OSN Informatika 2011 - Sesi 2|Kandang Segitiga
+2011-2C|OSN Informatika 2011 - Sesi 2|Karantina Bebek
+2011-2D|OSN Informatika 2011 - Sesi 2|Menyelidiki Pesan
+2011-2E|OSN Informatika 2011 - Sesi 2|Kursi Konser
+2011-2F|OSN Informatika 2011 - Sesi 2|Hiasan Kelereng
+2011-3A|OSN Informatika 2011 - Sesi 3|Tiang Pemancar
+2011-3B|OSN Informatika 2011 - Sesi 3|Radar Pesawat
+2011-3C|OSN Informatika 2011 - Sesi 3|Bebek Istimewa
+2011-3D|OSN Informatika 2011 - Sesi 3|Bongkar Sandi

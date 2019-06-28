@@ -1,0 +1,48 @@
+2012-1A|OSN Informatika 2012 - Hari 1|Segitiga
+2012-1B|OSN Informatika 2012 - Hari 1|Inversi Matriks
+2012-1C|OSN Informatika 2012 - Hari 1|Sungai Biner
+2012-1D|OSN Informatika 2012 - Hari 1|Maling
+2012-2A|OSN Informatika 2012 - Hari 2|Barisan Bilangan
+2012-2B|OSN Informatika 2012 - Hari 2|Batas Nilai
+2012-2C|OSN Informatika 2012 - Hari 2|Menggambar
+2012-2D|OSN Informatika 2012 - Hari 2|Membaca
+2013-1A|OSN Informatika 2013 - Hari 1|Tebak Himpunan
+2013-1B|OSN Informatika 2013 - Hari 1|Berbaris Sebelum Masuk
+2013-1C|OSN Informatika 2013 - Hari 1|Lipat Kertas
+2013-1D|OSN Informatika 2013 - Hari 1|Menggelindingkan Kubus
+2013-2A|OSN Informatika 2013 - Hari 2|Mengosongkan Matriks
+2013-2B|OSN Informatika 2013 - Hari 2|Kontes Menari
+2013-2C|OSN Informatika 2013 - Hari 2|Cuti Liburan
+2013-2D|OSN Informatika 2013 - Hari 2|Pabrik Kue
+2014-1A|OSN Informatika 2014 - Hari 1|Pelontar Bebek
+2014-1B|OSN Informatika 2014 - Hari 1|Cat Rumah
+2014-1C|OSN Informatika 2014 - Hari 1|Reduksi Pesan
+2014-1D|OSN Informatika 2014 - Hari 1|Perang Dunia Ketiga
+2014-2A|OSN Informatika 2014 - Hari 2|Komunikasi Bebek
+2014-2B|OSN Informatika 2014 - Hari 2|Sang Pelompat
+2014-2C|OSN Informatika 2014 - Hari 2|Suten
+2014-2D|OSN Informatika 2014 - Hari 2|Hiasan Dinding
+2015-1A|OSN Informatika 2015 - Hari 1|Pertahanan Yogya
+2015-1B|OSN Informatika 2015 - Hari 1|Menyiram Sawah
+2015-1C|OSN Informatika 2015 - Hari 1|Bisa Jadi Tebak Angka
+2015-2A|OSN Informatika 2015 - Hari 2|Belanja di Malioboro
+2015-2B|OSN Informatika 2015 - Hari 2|Motif Batik
+2015-2C|OSN Informatika 2015 - Hari 2|Ayam Aneh
+2016-1A|OSN Informatika 2016 - Hari 1|Pasar 16 Ilir
+2016-1B|OSN Informatika 2016 - Hari 1|Taming a Bomb
+2016-1C|OSN Informatika 2016 - Hari 1|River Tourism Spots
+2016-2A|OSN Informatika 2016 - Hari 2|Pempek Robot
+2016-2B|OSN Informatika 2016 - Hari 2|Souvenirs Shopping
+2016-2C|OSN Informatika 2016 - Hari 2|Tourism in Palembang
+2017-1A|OSN Informatika 2017 - Hari 1|Pekanbaru Defense
+2017-1B|OSN Informatika 2017 - Hari 1|Swapping Boxes
+2017-1C|OSN Informatika 2017 - Hari 1|Lands and Glaciers
+2017-2A|OSN Informatika 2017 - Hari 2|Ducks Army
+2017-2B|OSN Informatika 2017 - Hari 2|Dengklek's Labyrinth
+2017-2C|OSN Informatika 2017 - Hari 2|Ducks' Arithmetics
+2018-1A|OSN Informatika 2018 - Hari 1|Skybridges
+2018-1B|OSN Informatika 2018 - Hari 1|Padang Defense
+2018-1C|OSN Informatika 2018 - Hari 1|Online Ojek
+2018-2A|OSN Informatika 2018 - Hari 2|Rooftop Decoration
+2018-2B|OSN Informatika 2018 - Hari 2|The Game of Pajel
+2018-2C|OSN Informatika 2018 - Hari 2|GCD Festival

@@ -1,0 +1,72 @@
+1A|Perkenalan Pemrograman Kompetitif|Seleksi Olimpiade
+1B|Perkenalan Pemrograman Kompetitif|Runtuh
+1C|Perkenalan Pemrograman Kompetitif|Wildcard
+1D|Perkenalan Pemrograman Kompetitif|Hapus Satu Saja!
+2A|Matematika Diskret Dasar|Faktorisasi Prima
+2B|Matematika Diskret Dasar|Penjumlahan Pecahan
+2C|Matematika Diskret Dasar|Prima Ke-K
+2D|Matematika Diskret Dasar|Pasar Rakyat
+3A|Pencarian dan Pengurutan|Kupon Berhadiah
+3B|Pencarian dan Pengurutan|Petak Menarik
+3C|Pencarian dan Pengurutan|Wartel
+3D|Pencarian dan Pengurutan|Pendataan Berat Bebek
+3E|Pencarian dan Pengurutan|Pertemuan Pak Dengklek
+3F|Pencarian dan Pengurutan|Pesta Bebek
+3G|Pencarian dan Pengurutan|Kualitas Baju
+3H|Pencarian dan Pengurutan|Membeli Beras
+3I|Pencarian dan Pengurutan|Terpendek ke-K
+4A|Brute Force|Refleksi Matriks
+4B|Brute Force|Group Match
+4D|Brute Force|Kontes Menari
+4E|Brute Force|Jawbreaker 2: Cari Terbesar
+4F|Brute Force|Jawbreaker 3: Cari Terbesar dan Runtuhkan
+4G|Brute Force|Jawbreaker 4: Cari Terbesar 2 Langkah
+4H|Brute Force|Paduan Suara
+5A|Divide and Conquer|Parsel Telur Bebek
+5B|Divide and Conquer|Pangkat Besar
+5C|Divide and Conquer|Hadiah
+5D|Divide and Conquer|Barisan Hewan Ternak
+6A|Greedy|Rak Buku
+6B|Greedy|Jamuan Makan
+6C|Greedy|Perkalian Skalar
+6D|Greedy|Beli Cokelat
+6E|Greedy|Sepatu
+6F|Greedy|Nomor Kandang
+7A|Dynamic Programming|Persoalan Uang Kembalian
+7B|Dynamic Programming|Knapsack
+7C|Dynamic Programming|Penukaran Emas
+7D|Dynamic Programming|Palindrom
+7E|Dynamic Programming|Perkalian Matriks Bebek
+7F|Dynamic Programming|Waterfall
+7G|Dynamic Programming|Jabat Tangan
+8A|Struktur Data Dasar|Stack dan Queue
+8B|Struktur Data Dasar|Modified Queue
+8C|Struktur Data Dasar|Modified Stack
+8D|Struktur Data Dasar|Barisan Intip
+8E|Struktur Data Dasar|Penghancuran Batu
+9A|Perkenalan Graph|Maze
+9B|Perkenalan Graph|Disconnected Graph
+9C|Perkenalan Graph|Evolusi
+9D|Perkenalan Graph|Jalan Tol Menuju Roma
+9E|Perkenalan Graph|Tantangan Dengklek
+10A|Struktur Data NonLinear|Membangun Jalan Antar Kandang
+10B|Struktur Data NonLinear|Hobi Batu Akik
+10C|Struktur Data NonLinear|Pekanbaru Defense
+11A|Algoritma Graf|Les Piano
+11B|Algoritma Graf|Taman Bunga Beraroma
+11C|Algoritma Graf|Mengantar Pesanan
+11D|Algoritma Graf|Muka Bebek
+12A|Dasar-Dasar Geometri|Dua Gelang
+12B|Dasar-Dasar Geometri|5 Segmen Garis
+12C|Dasar-Dasar Geometri|Segitiga Bebek
+12D|Dasar-Dasar Geometri|Menutup Tiang
+13A|Memenangkan Kompetisi|Angka Sangar
+13B|Memenangkan Kompetisi|Tebak Himpunan
+13C|Memenangkan Kompetisi|Perjalanan Teringan
+13D|Memenangkan Kompetisi|Raja Bebek
+13E|Memenangkan Kompetisi|Sang Pelompat
+13F|Memenangkan Kompetisi|The Alien of Yogyakarta The Curse of The IFO
+13G|Memenangkan Kompetisi|Jawbreaker 5: Cari Optimal
+13H|Memenangkan Kompetisi|Radar Pesawat
+13I|Memenangkan Kompetisi|Tebak Angka
+13J|Memenangkan Kompetisi|Permainan Mejik

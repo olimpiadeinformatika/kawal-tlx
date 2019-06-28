@@ -1,0 +1,48 @@
+1A|Perkenalan|Halo, Dunia!
+3B|Ekspresi dan Masukan/Keluaran|A Tambah B
+3C|Ekspresi dan Masukan/Keluaran|Burung Beo
+3D|Ekspresi dan Masukan/Keluaran|Bebek untuk Teman
+3E|Ekspresi dan Masukan/Keluaran|Luas Segitiga
+3F|Ekspresi dan Masukan/Keluaran|Transpos Matriks
+5B|Percabangan|If Then
+5C|Percabangan|If Then Multi
+5D|Percabangan|If Then Else
+5E|Percabangan|If Then / Case
+5F|Percabangan|Floor dan Ceiling
+5G|Percabangan|Jarak Manhattan
+6B|Perulangan|For
+6C|Perulangan|While
+6D|Perulangan|While + Pencacah
+6E|Perulangan|Dua Pangkat
+6F|Perulangan|Faktor Bilangan
+6G|Perulangan|Statistika Sederhana
+6H|Perulangan|Pola I
+7A|Perulangan Lanjut|Break Continue Exit
+7B|Perulangan Lanjut|Pola II
+7C|Perulangan Lanjut|Pola III
+8B|Analisis Kompleksitas|Cek Bilangan Prima
+8C|Analisis Kompleksitas|Bilangan Agak Prima
+9B|Array|Balik Daftar
+9C|Array|Modus Terbesar
+9D|Array|Rotasi Matriks
+9E|Array|Perkalian Matriks
+10B|Subprogram|Tukang Sulap
+10C|Subprogram|Membalik yang Terbalik
+10D|Subprogram|Faktorisasi Prima
+10E|Subprogram|Komposisi Fungsi
+10F|Subprogram|Teman Dekat
+11B|Pendalaman String|Pembuangan String
+11C|Pendalaman String|Caesar Cipher
+11D|Pendalaman String|Operasi String
+11E|Pendalaman String|Bahasa Dengklek
+11F|Pendalaman String|Gaya Penulisan Variabel
+12B|Rekursi|Faktorial Ganjil-Genap
+12C|Rekursi|Komposisi Fungsi II
+12D|Rekursi|Kasur Rusak
+12E|Rekursi|Konversi Biner
+13B|Rekursi Lanjut|Menggambar Pegunungan
+13C|Rekursi Lanjut|Permutasi Zig-Zag
+13D|Rekursi Lanjut|Brankas Terkunci
+13E|Rekursi Lanjut|Quadtree I: Pengkodean
+13F|Rekursi Lanjut|Quadtree II: Penerjemahan
+13G|Rekursi Lanjut|Jawbreaker I: Klik!

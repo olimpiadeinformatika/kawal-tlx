@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Kawal TLX</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link href="/pace-theme-center-simple.css" rel="stylesheet">
+    <script src="/pace.min.js"></script>
+    <!-- Custom styles for this template -->
+    <!-- <link href="/narrow-jumbotron.css" rel="stylesheet"> -->
+    <!-- Custom style for Freeze Table -->
+    <style>
+    table {
+        font-size: 10pt;
+    }
+    /* table th,
+    .table-fill tr {
+      background-color: rgb(255,255,255,1) !important;
+    } */
+    </style>
+</head>
+<body>
+
+<div class="container-fluid">
+
+  <div class="header clearfix">
+    <h3 class="text-muted">Kawal TLX</h3>
+     <p>Last Update : {% now 'Asia/Jakarta', '%d %b %Y %H:%M:%S' %}</p>
+  </div>
+  <hr>
+  <div class="table-basic" style="height: 400px;">
+    <table cellspacing="0" id="table-basic" class="table table-sm table-bordered table-striped" style="min-width: 1200px;">
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Username</th>
+          <th>Name</th>
+          <th>Total</th>
+          {% for (p, q, r) in problems %}
+          <th title="{{r}}">{{p}}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in body %}
+        <tr>
+          {% for cell in row %}
+          <td>{{cell}}</td>
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+</div> <!-- /container -->
+  
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+<script src="/freeze-table.js"></script>
+<script>
+$(document).ready(function() {
+  $(".table-basic").freezeTable({
+    'shadow': true,
+    'columnNum' : 4,
+    'scrollable': true,
+  });
+});
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72255923-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-72255923-3');
+</script>
+</body>
+</html>
+
