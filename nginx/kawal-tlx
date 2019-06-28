@@ -1,0 +1,11 @@
+server {
+  listen 80;
+  listen [::]:80;
+  root /home/coderbodoh/kawal-tlx/jabar;
+  index index.html;
+  server_name jabar.olimpiadeinformatika.com;
+  location / {
+    try_files $uri $uri/ =404;
+  }
+}
+
